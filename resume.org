@@ -1,0 +1,100 @@
+#+options: ':t *:t -:t ::t <:t H:3 \n:nil ^:t arch:headline
+#+options: author:t broken-links:nil c:nil creator:nil
+#+options: d:(not "LOGBOOK") date:t e:t email:nil f:t inline:t num:nil
+#+options: p:nil pri:nil prop:nil stat:t tags:t tasks:t tex:t
+#+options: timestamp:nil title:nil toc:nil todo:t |:t
+#+language: en
+#+select_tags: export
+#+exclude_tags: noexport
+#+creator: Emacs 27.1 (Org mode 9.3.7)
+#+latex_class: article
+#+LATEX_CLASS_OPTIONS: [12pt]
+#+LATEX_COMPILER: xelatex
+#+LATEX_HEADER: \usepackage[margin=0.5in]{geometry}
+#+LATEX_HEADER: \usepackage{setspace}
+#+LATEX_HEADER: \setlength{\parindent}{0pt}
+#+LATEX_HEADER: \linespread{0.95}
+#+latex_header:
+#+latex_header_extra:
+#+description:
+#+keywords:
+#+subtitle:
+#+latex_compiler: pdflatex
+
+#+begin_export latex
+{\Large \textbf{Pierce Wang}}
+#+end_export
+-----
+| pierce.wang@columbia.edu | +1.510.557.8114 |
+* Private Instruction
+#+ATTR_LATEX: :center nil
+| Hyo Kang                        | Violin     | Juilliard            | 2021-Current |
+| Adele Anthony                   | Violin     | Juilliard            | 2021-Current |
+| Alexander and Alena Barantschik | Violin     | SFCM and SF Symphony |    2017-2021 |
+| Stefano Flavoni                 | Conducting | SF Symphony          |    2019-2021 |
+| Wei He                          | Violin     | SFCM                 |    2015-2017 |
+| Davis Law                       | Violin     | SFCM                 |    2009-2015 |
+| Andy Liu                        | Violin     | Local                |    2005-2009 |
+* Education
+#+ATTR_LATEX: :center nil
+| *Columbia University*                              | 2021-Present |
+| Graduating Class of 2024, B.A. in Computer Science |              |
+|                                                    |              |
+| *Juilliard School*                                 | 2021-Present |
+| Undergraduate studies in Violin Performance        |              |
+|                                                    |              |
+| *Stanford Online High School*                      | 2015—2021    |
+| Head of School Award                               |              |
+|                                                    |              |
+| *San Francisco Conservatory of Music*              | 2009—2021    |
+| Completed 12 years in Pre-college division         |              |
+| Completed 6-level Music Theory Curriculum          |              |
+
+* Selections from Recent Repertoire Studied
+#+ATTR_LATEX: :center nil
+|----------------------------------------+---------------------------------------------------------|
+| Current                                | 2022                                                    |
+|----------------------------------------+---------------------------------------------------------|
+| *Bach* Sonata No. 3 in C major         | *Ysaye* Sonatas for Solo Violin, Op. 27, No. 1-6        |
+| *Paganini* Caprice No. 8               | *Barber* Violin Concerto, Op. 14                        |
+| *Brahms* Violin Concerto (Revisited)   | *Bach* Chaconne                                         |
+| *Beethoven* Sonata No. 7, Op. 30 No. 2 | *Corigliano* The Red Violin Caprices                    |
+| *Brahms* Piano Trio No. 2 in C         | *Walter Piston* String Quartet No. 3                    |
+|----------------------------------------+---------------------------------------------------------|
+| 2021                                   | 2020                                                    |
+|----------------------------------------+---------------------------------------------------------|
+| *Bartok* Violin Concerto No. 2         | *Tchaikovsky* Violin Concerto, Op. 35                   |
+| *Ravel* Sonata for Violin and Piano    | *Paganini* Caprice No. 1                                |
+| *Mozart* Sonata in B-flat Major, K.378 | *Paganini* Variations on "I palpiti", Op. 13            |
+| *Saint* Saens Rondo Capriccioso        | *Mozart* Violin Concerto No. 5 in A major, K. 219       |
+| *Ysaÿe* Sonata No. 4 "Fritz Kreisler"  | *Ysaÿe* Sonata for Solo Violin No. 3 "Ballade"          |
+| *Bach* Partita for Violin No. 1        | *Shostakovich* Violin Concerto No. I in A minor, Op. 77 |
+| *Wieniawski* Violin Concerto No. 2     | *Sibelius* Violin Concerto in D Minor                   |
+| *Brahms* Violin Concerto               |                                                         |
+|----------------------------------------+---------------------------------------------------------|
+
+#+begin_export latex
+\pagebreak
+#+end_export
+* Ensemble Experience (Selected)
+- Piano Trio (Jan '23—May '23) — Brahms Piano Trio No. 2 in C
+- String Quartet (Aug '21—May '22) — Mozart String Quartet No. 23 in F major, K. 590, Handel String Quartet No. 103, Op. 76 "Emperor Quartet", Beethoven String Quartet No. 14 in C# minor, Op. 131
+- Piano Quintet (Aug '20—Jun '21) — Dvorak Piano Quintet in A major, Op. 81
+- Piano Trio "Bach Trio" (Aug '15—Jun '17 and Aug '18—Jun '20) — works by Dvorak, Beethoven, Shostakovich, Arensky, Piazzola, Mendelssohn, and more
+- Contemporary Music Ensemble (Aug '19—Jun '21) — Mahler Symphony No. 4 in G Mvmt. 4 arr. Shoenberg, Kaiser (Emperor), Op. 437 arr. Shoenberg, Webern 6 Pieces for Orchestra, Debussy Prelude a l'apres-midi d'un faune, L. 86
+- Baroque Ensemble (Aug '18—Jun '19) — Works by Vivaldi, Telemann, and more.
+- String Quartet (Aug '17—Jun '18) —Henry Cowell String Quartet No. 4 "United Quartet", Mozart String Quartet No. 20 in D, K.499 "Hoffmeister": 4. Allegro
+
+* Significant Performances/Masterclasses (Selected)
+- *The Ysaÿe Project* (January '23) — All 6 Ysaÿe sonatas in order, with spoken introductions and explanations. This concert was a passion project created to tell the very human story that the 6 sonatas contains. Details [[[https://piercegwang.github.io][here]]].
+- *Juilliard Focus Festival Chamber Concert* (January '22) — Walter Piston, String Quartet No. 3
+- *Masterclass with Hilary Hahn* (June '21) — Ysaye Sonatas for Solo Violin, Op. 27, No. 4
+- *Heifetz International Music Institute* (September '20) — Paganini variations on 'I Palpiti', Op. 13
+- *Jane Galante Chamber Music Competition* (February '20) — First Prize, Arensky Piano Trio in D Minor, Beethoven Piano Trio in C Minor
+- *Symphony Parnassus* (January '20) — Prokofiev Violin Concerto No. 1
+- *Solano Symphony Orchestra* (October '18) — Saint-Saens Violin Concerto No. 3
+- *Symphony Parnassus* (November '17) — Conus Violin Concerto in E minor
+- *Saratoga Symphony* (April '17) — Conus Violin Concerto in E minor, Tchaikovsky Meditation in D minor, Op. 72
+- *St. Valentine's Day Solo Recital* (February '15) — Works by Elgar, Franck, Ernst (The Last Rose of Summer), Waxman, Gardel, Dvorak, and others
+- *Solo Concert ``All Saint's Day''* (October '13) — First Solo Recital, including Ernst's "Der Erlkonig" and Bazzini's "Le Round De Lutin" and various works by Bach, Tartini-Kreisler, Ysaye, Gluck, Paganini, and Saint-Saens
+- *From the Top* (March '14) — Show #284 - Performing Ernst's "Der Erlkonig"
