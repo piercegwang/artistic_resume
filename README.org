@@ -1,0 +1,3 @@
+#+title: Artistic Resume
+
+This repository houses my artistic resume for music/violin-related pursuits.
