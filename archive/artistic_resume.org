@@ -1,0 +1,85 @@
+#+options: ':t *:t -:t ::t <:t H:3 \n:nil ^:t arch:headline
+#+options: author:t broken-links:nil c:nil creator:nil
+#+options: d:(not "LOGBOOK") date:t e:t email:nil f:t inline:t num:nil
+#+options: p:nil pri:nil prop:nil stat:t tags:t tasks:t tex:t
+#+options: timestamp:nil title:nil toc:nil todo:t |:t
+#+language: en
+#+select_tags: export
+#+exclude_tags: noexport
+#+creator: Emacs 27.1 (Org mode 9.3.7)
+#+latex_class: article
+#+LATEX_CLASS_OPTIONS: [12pt]
+#+LATEX_COMPILER: xelatex
+#+LATEX_HEADER: \usepackage[margin=0.5in]{geometry}
+#+LATEX_HEADER: \usepackage{setspace}
+#+LATEX_HEADER: \setlength{\parindent}{0pt}
+#+LATEX_HEADER: \linespread{0.9}
+#+latex_header:
+#+latex_header_extra:
+#+description:
+#+keywords:
+#+subtitle:
+#+latex_compiler: pdflatex
+
+#+begin_export latex
+{\Large \textbf{Pierce Wang}}
+#+end_export
+-----
+| pierce.g.wang@gmail.com | +1.510.557.8114 |
+* Private Instruction
+#+ATTR_LATEX: :center nil
+| Alexander and Alena Barantschik | Violin     | SFCM and SF Symphony | 2017-Present |
+| Stefano Flavoni                 | Conducting | SF Symphony          | 2019-Present |
+| Wei He                          | Violin     | SFCM                 |    2015-2017 |
+| Davis Law                       | Violin     | SFCM                 |    2009-2015 |
+| Andy Liu                        | Violin     | Local                |    2005-2009 |
+* Education
+#+ATTR_LATEX: :center nil
+| *Stanford Online High School*             | 2015—Present |
+| Graduating Class of 2021                  |              |
+|                                           |              |
+| *San Francisco Conservatory of Music*     | 2009—Present |
+| 12th year in Pre-college division         |              |
+| Completed 6-level Music Theory Curriculum |              |
+
+* Recent Repertoire Studied
+#+ATTR_LATEX: :center nil
+| Current                                  | 2020                                                  |
+|------------------------------------------+-------------------------------------------------------|
+| Bartok Violin Concerto No.2              | Tchaikovsky Violin Concerto, Op. 35                   |
+| Ravel Sonata for Violin and Piano        | Paganini Caprice No. 1                                |
+| Sibelius Violin Concerto in D Minor      | Paganini Variations on "I palpiti", Op. 13            |
+| Mozart Sonata in B-flat Major, K.378     | Mozart Violin Concerto No. 5 in A major, K. 219       |
+| Bach Partita for Violin No.1             | Ysäye Sonata for Solo Violin No. 3                    |
+|                                          | Shostakovich Violin Concerto No. I in A minor, Op. 77 |
+|------------------------------------------+-------------------------------------------------------|
+| 2019                                     |                                                       |
+|------------------------------------------+-------------------------------------------------------|
+| Prokofiev Violin Concerto No. 1          |                                                       |
+| Sarasate Carmen Fantasy                  |                                                       |
+| Bach Sonata in G minor                   |                                                       |
+| Paganini Caprice No. 4                   |                                                       |
+| Brahms Sonata for Violin No. 1           |                                                       |
+| Piazzol Cafe 1930 arr. Violin and Guitar |                                                       |
+
+* Ensemble Experience (Selected)
+- Piano Quintet (Aug '20—Current) — Dvorak Piano Quintet in A major, Op. 81
+- Piano Trio "Bach Trio" (Aug '15—Jun '17 and Aug '18—Jun '20) — works by Dvorak, Beethoven, Shostakovich, Arensky, Piazzola, Mendelssohn, and more
+- Contemporary Music Ensemble (Aug '19—Current) — Mahler Symphony No. 4 in G Mvmt. 4 arr. Shoenberg, Kaiser (Emperor), Op. 437 arr. Shoenberg, Webern 6 Pieces for Orchestra, Debussy Prelude a l'apres-midi d'un faune, L. 86
+- Baroque Ensemble (Aug '18—Jun '19) — Works by Vivaldi, Telemann, and more.
+- String Quartet (Aug '17—Jun '18) —Henry Cowell String Quartet No. 4 "United Quartet", Mozart String Quartet No. 20 in D, K.499 "Hoffmeister": 4. Allegro
+
+* Significant Performances (Selected)
+
+- *Youth Helping Youth Benefit Concert* (February '20) — Paganini variations on 'I Palpiti', Op. 13
+- *Jane Galante Chamber Music Competition* (February '20) — First Prize, Arensky Piano Trio in D Minor, Beethoven Piano Trio in C Minor
+- *Symphony Parnassus* (January '20) — Prokofiev Violin Concerto No. 1
+- *Sonoma County Philharmonic* (November '19) — Prokofiev Violin Concerto No. 1
+- *"Chamber Music Soiree" Concerts at the Presidio, SF* (April '19) — Beethoven Piano Trio No.1 Op.1, Dvorak Piano Trio No. 4 "Dumky", Shostakovich Piano Trio No. 2
+- *Solano Symphony Orchestra* (October '18) — Saint-Saens Violin Concerto No. 3
+- *Symphony Parnassus* (November '17) — Conus Violin Concerto in E minor
+- *Saratoga Symphony* (April '17) — Conus Violin Concerto in E minor, Tchaikovsky Meditation in D minor, Op. 72
+- *St. Valentine's Day Solo Recital* (February '15) — Works by Elgar, Franck, Ernst (The Last Rose of Summer), Waxman, Gardel, Dvorak, and others
+- *Solo Concert ``All Saint's Day''* (October '13) — First Solo Recital, including Ernst's "Der Erlkonig" and Bazzini's "Le Round De Lutin" and various works by Bach, Tartini-Kreisler, Ysaye, Gluck, Paganini, and Saint-Saens
+- *From the Top* (March '14) — Show #284 - Performing Ernst's "Der Erlkonig"
+
