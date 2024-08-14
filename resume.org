@@ -28,8 +28,9 @@
 | pierce.wang@columbia.edu | +1.510.557.8114 |
 * Private Instruction
 #+ATTR_LATEX: :center nil
-| Hyo Kang                        | Violin     | Juilliard            | 2021-Current |
-| Adele Anthony                   | Violin     | Juilliard            | 2021-Current |
+| Catherine Cho                   | Violin     | Juilliard            | 2024-Current |
+| Hyo Kang                        | Violin     | Juilliard            |    2021-2024 |
+| Adele Anthony                   | Violin     | Juilliard            |    2021-2024 |
 | Alexander and Alena Barantschik | Violin     | SFCM and SF Symphony |    2017-2021 |
 | Stefano Flavoni                 | Conducting | SF Symphony          |    2019-2021 |
 | Wei He                          | Violin     | SFCM                 |    2015-2017 |
